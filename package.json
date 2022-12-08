@@ -1,0 +1,20 @@
+{
+  "name": "cpu_loader",
+  "version": "1.0.0",
+  "description": "Processor usage monitor",
+  "main": "cpu.js",
+  "type": "module",
+  "scripts": {
+    "start": "node cpu.js",
+    "test": "jest"
+  },
+  "author": "Anthony Gonçalves",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.3.1"
+  }
+}
