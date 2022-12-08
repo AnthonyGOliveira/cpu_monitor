@@ -71,16 +71,16 @@ coverage/lcov-report/index.html
 
 | Pasta                             | Arquivo                           | Funcionalidade                |
 | ----------------------------------|-----------------------------------|-------------------------------| 
-| converter                         |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/converter/bytesToGigabytes.js">bytesToGigabytes.js<a>                |Transforma bytes em gigabytes  |
-| converter                         |secondsToHours.js                  |Transforma segundos em horas   |
+| converter                         |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/converter/bytesToGigabytes.js">bytesToGigabytes.js</a>                |Transforma bytes em gigabytes  |
+| converter                         |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/converter/secondsToHours.js">secondsToHours.js</a>                  |Transforma segundos em horas   |
 | converage                         |                                   |Arquivos criados na execução do __Jest__  |
 | img                               |                                   |Imagens do projeto  |
-| template                          |showTemplate.js                    |Gera a visualização das informações na interface  |
+| template                          |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/template/showTemplate.js">showTemplate.js</a>                    |Gera a visualização das informações na interface  |
 | test                              |                                   |Arquivos de testes das funcionalidades do projeto  |
-| utils                             |getCpuInformations.js              |Retorna as informações utilizadas no projeto por meio da lib __OS__ de node  |
-| utils                             |returnPercentOfUsage.js            |Retorna a porcentagem de uso por núcleo do CPU  |
-| utils                             |returnTotalIdle.js                 |Retorna a quantidade total de idle por núcleo do CPU  |
-| utils                             |returnTotalUsage.js                |Retorna o resultado da função __totalUsageCore__ executada em cada CPU |
-| utils                             |totalUsageCore.js                  |Retorna o resultado total em tempo de uso de núcleo sem idle  |
-| view                              |colors.js                          |Atribuição das cores utilizadas no projeto utilizando a lib __chalk__  |
-| view                              |view.js                            |Renderiza um log de acordo com a cor selecionada de colors.js|
+| utils                             |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/utils/getCpuInformations.js">getCpuInformations.js</a>              |Retorna as informações utilizadas no projeto por meio da lib __OS__ de node  |
+| utils                             |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/utils/returnPercentOfUsage.js">returnPercentOfUsage.js</a>            |Retorna a porcentagem de uso por núcleo do CPU  |
+| utils                             |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/utils/returnTotalIdle.js">returnTotalIdle.js</a>                 |Retorna a quantidade total de idle por núcleo do CPU  |
+| utils                             |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/utils/returnTotalUsage.js">returnTotalUsage.js</a>                |Retorna o resultado da função __totalUsageCore__ executada em cada CPU |
+| utils                             |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/utils/totalUsageCore.js">totalUsageCore.js</a>                  |Retorna o resultado total em tempo de uso de núcleo sem idle  |
+| view                              |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/view/colors.js">colors.js</a>                          |Atribuição das cores utilizadas no projeto utilizando a lib __chalk__  |
+| view                              |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/view/view.js">view.js</a>                            |Renderiza um log de acordo com a cor selecionada de colors.js|
