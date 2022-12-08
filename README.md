@@ -45,8 +45,7 @@ Para executar os testes do projeto execute o comando:
 npm run test
 ```
 O resultado dos testes é mostrado no final da execução do comando:
-```
---------------------------|---------|----------|---------|---------|-------------------
+
 File                      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 --------------------------|---------|----------|---------|---------|-------------------
 All files                 |     100 |      100 |     100 |     100 |                   
@@ -60,9 +59,8 @@ All files                 |     100 |      100 |     100 |     100 |
   totalUsageCore.js       |     100 |      100 |     100 |     100 |                   
  view                     |     100 |      100 |     100 |     100 |                   
   colors.js               |     100 |      100 |     100 |     100 |                   
-  view.js                 |     100 |      100 |     100 |     100 |                   
---------------------------|---------|----------|---------|---------|-------------------
-```
+  view.js                 |     100 |      100 |     100 |     100 |  
+  
 Para verificar os resultados dos testes é possivel abrir o arquivo index.html no browser
 ```
 coverage/lcov-report/index.html
