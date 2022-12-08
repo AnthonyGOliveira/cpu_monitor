@@ -71,7 +71,7 @@ coverage/lcov-report/index.html
 
 | Pasta                             | Arquivo                           | Funcionalidade                |
 | ----------------------------------|-----------------------------------|-------------------------------| 
-| converter                         |bytesToGigabytes.js                |Transforma bytes em gigabytes  |
+| converter                         |<a href="https://github.com/AnthonyGOliveira/cpu_monitor/blob/main/converter/bytesToGigabytes.js">bytesToGigabytes.js<a>                |Transforma bytes em gigabytes  |
 | converter                         |secondsToHours.js                  |Transforma segundos em horas   |
 | converage                         |                                   |Arquivos criados na execução do __Jest__  |
 | img                               |                                   |Imagens do projeto  |
